@@ -2,8 +2,6 @@
 ## php connection
 łączymy naszą bazę danych
 ```php
-echo ("hello");
-echo ('hello');
 $connection = new mysqli("localhost","root","","test");
 ```
 
