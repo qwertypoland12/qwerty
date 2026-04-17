@@ -1,2 +1,6 @@
-# qwerty
-aaa
+# php
+## php string
+```php
+echo ("hello");
+echo ('hello');
+```
